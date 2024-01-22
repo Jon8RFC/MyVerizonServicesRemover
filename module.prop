@@ -1,0 +1,10 @@
+id=MyVerizonServicesRemover
+name=MyVerizonServices Remover
+version=v1.0.0
+versionCode=10000
+author=Jon8RFC
+description=Systemlessly disables and removes MyVerizonServices.apk and LLKAgent.apk
+updateJson=https://raw.githubusercontent.com/Jon8RFC/MyVerizonServicesRemover/master/update.json
+support=https://github.com/Jon8RFC/MyVerizonServicesRemover/
+donate=https://paypal.me/jon8rfc
+template=1500
