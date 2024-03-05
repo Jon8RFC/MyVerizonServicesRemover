@@ -30,4 +30,4 @@ MyVerizonServices on Android 14 (and possibly earlier) will both reinstall and r
 
   
 As of 2024-02-27, I plan to soon do additional testing on a borrowed Pixel 3, using different OEM versions/API levels.  
-As of 2024-03-04, I think this module is, unfortunately, good at what it does; MyVerizonServices is obviously necessary.
+As of 2024-03-04, I think this module is, unfortunately, good at what it does and shouldn't be used; MyVerizonServices is obviously necessary.
