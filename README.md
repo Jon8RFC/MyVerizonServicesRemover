@@ -1,5 +1,7 @@
 # MyVerizonServices Remover
-This Magisk module systemlessly disables and removes MyVerizonServices.apk and Verizon's LLKAgent.apk
+This Magisk module systemlessly disables and removes MyVerizonServices.apk and Verizon's LLKAgent.apk.  
+
+I suggest not using this module because it works as it should, and MyVerizonServices is necessary.
 
 Disabling the apk via su/root doesn't persist after reboot, and may get enabled spontaneously anyway.  
 This module should account for all of that.  
@@ -28,4 +30,4 @@ MyVerizonServices on Android 14 (and possibly earlier) will both reinstall and r
 
   
 As of 2024-02-27, I plan to soon do additional testing on a borrowed Pixel 3, using different OEM versions/API levels.  
-As of 2024-03-04, I think this module is too good at what it does since MyVerizonServices is obviously necessary.
+As of 2024-03-04, I think this module is, unfortunately, good at what it does; MyVerizonServices is obviously necessary.
