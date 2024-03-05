@@ -18,6 +18,7 @@ _However_, I was correct...
 
 I wiped my phone and installed magisk modules before continuing additional setup.  
 Wifi calling was **NOT** possible to initially enable unless I disabled my module.  
+After using my phone for about a week, "Hold for Me", "Direct My Call", and "Call Screen" broke and couldn't be re-enabled without disabling the module and clearing data for the phone app.  
 Something pertaining to a more feature-filled Emergency/911 Calling and/or SOS functionality was **NOT** possible to enable, but I was tired and have since forgotten details.  
 
 Once wifi calling is initially enabled, my module can safely be enabled.
@@ -25,4 +26,6 @@ Once wifi calling is initially enabled, my module can safely be enabled.
 This is because my module truly disables the apk; other methods of "disabling" don't actually do so, be it via application or command.  
 MyVerizonServices on Android 14 (and possibly earlier) will both reinstall and re-enable itself, which is why I created this robust approach.  
 
-As of 2024-02-27, I plan to soon do additional testing on a borrowed Pixel 3, using different OEM versions/API levels.
+  
+As of 2024-02-27, I plan to soon do additional testing on a borrowed Pixel 3, using different OEM versions/API levels.  
+As of 2024-03-04, I think this module is too good at what it does since MyVerizonServices is obviously necessary.
